@@ -24,4 +24,3 @@
 - Сохранение операций, которые ты делал 
 
 
-![Image alt](https://github.com/{blacksmithalex}/{calculator}/preview.png)
